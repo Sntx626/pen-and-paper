@@ -46,11 +46,11 @@ Pen&Paper
     └── _unsorted
 ```
 
-To understand this structure properly ?two concepts need to be explained:
+To understand this structure properly two concepts need to be explained:
 
 1. Template Folders
 > A Template Folder can be identified by the pre- and appended `-` (colons). A Template Folder represents something that might be useful for a Pen&Paper and typically exists more than once, a campaign for example. If you want to create the structure for a new campaign you can simply copy the Template Folder and rename it to the name of the new campaign.
-1. Placeholder Files
+2. Placeholder Files
 > A Placeholder File is typically part of a Template Folder. After having copied a Template Folder, for example the Template Folder for Player Characters, these Placeholder Files are meant to be replaced by files containing the data. When creating a campaign for example you can also decide to overwrite the Placeholder File for the CharacterSheet so that when players start to create their characters they all use the same CharacterSheet. A placeholder file might also indicate to use [semantic versioning](https://semver.org/) for a specific file.
 
 This should cover the most common files you need to store for you Pen&Paper.
@@ -58,7 +58,7 @@ So let's get to explaining how to use this structure efficiently and make sure t
 
 ## Rules
 
-I'm not here to stay Rules are Rules, but make sure your group can agree on them.
+I'm not here to say Rules are Rules, but make sure your group can agree on them.
 
 1. Make sure everyone reads or gets this document explained.
 2. Only create files where they are supposed to stay.

@@ -73,4 +73,4 @@ That's it, you read through it all ^^
 
 Now if you think that you could do something better, please do!
 Feel free to open up at least a feature/optimization request or in case you might've spotted something out of order a bug report.
-And if you think that won't do feel free to branch you own version of this. Who knows, if you create a pull request it might even be merged.
+And if you think that won't do feel free to fork you own version of this. Who knows, if you create a pull request it might even be merged.
